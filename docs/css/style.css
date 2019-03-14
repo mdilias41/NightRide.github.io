@@ -22,7 +22,7 @@ body {
       body .navbar .navbar-brand a span {
         position: relative;
         padding-bottom: 10px;
-        padding-top: 3px; }
+        padding-top: 4px; }
   body .navbar-brand h2:after {
     content: '';
     position: absolute;
